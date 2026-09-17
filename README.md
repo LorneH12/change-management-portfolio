@@ -33,3 +33,13 @@ Figures are owner-supplied and confirmed September 17, 2026. Impacted population
 The homepage and both design comparisons carry the same confirmed project facts. Final design selection remains pending; this content update does not select a new design. Preserve the original `savepoint-portfolio-v1` branch.
 
 Eight existing work samples remain alongside the new Amex flagship case study. Demonstrations are labeled as samples and not represented as commissioned client work.
+
+## Role alignment — September 17, 2026
+
+Primary target: strategic change management and enterprise transformation. Lead with stakeholder engagement, executive communication, cross-functional delivery, and analytics ownership; use AI adoption, tool enablement, and training as supporting evidence. User clarified this priority using Amex requisition 26011378, Senior Manager – Business Strategy & Sales Performance. The full public description was subsequently retrieved from the employer’s public careers data. The role emphasizes strategic analysis, performance metrics, cross-functional initiatives, and change execution. Working knowledge of SQL/Hive, Excel, Tableau, Python and PowerPoint is requested; only PowerPoint is confirmed here. B2B product experience is preferred and unconfirmed. Primary location: New York. Do not infer sales strategy, pricing, financial modeling, or revenue ownership from this target role.
+
+Supported capability language: role-based enablement, change communications, stakeholder engagement, executive reporting, virtual facilitation, cross-functional collaboration, enterprise cloud migrations, AI socialization, and workflow enablement.
+
+A focused review of current Carrier, T. Rowe Price, and ByteDance postings informed this wording. It is a qualitative sample, not a market-wide frequency study or a shortlist of locally suitable jobs. No certifications, governance ownership, champion-network leadership, AI engineering, or measured adoption/ROI outcomes have been added without evidence.
+
+Research and the LinkedIn makeover draft are maintained in the [Notion source of truth](https://www.notion.so/3deaae3a01ed8171a157e47c670f0eb9).
